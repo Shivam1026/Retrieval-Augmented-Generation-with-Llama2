@@ -16,7 +16,6 @@ This repository contains a text generation model based on Llama2 GGML. Llama2 ha
 •  ctransformers
 •  langchain
 •  chromadb
-•  streamlit
 •  sentence-transformers
 •  bitsandbytes
 •  torch
